@@ -154,7 +154,7 @@ public class nodeClassLL {
 		removeDuplicates(head);
 		display(head);
 		
-		//Sample Input
+		//Sample Test Input
 //		head = new Node(5);
 //		head.next = new Node(5);
 //		head.next.next = new Node(3);
